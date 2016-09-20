@@ -3,7 +3,7 @@
   <groupId>panda.android</groupId>
   <artifactId>lib</artifactId>
   <versioning>
-    <release>0.1.2016092001</release>
+    <release>0.1.2016092002</release>
     <versions>
       <version>0.1.2016032101</version>
       <version>0.1.2016032102</version>
@@ -20,7 +20,8 @@
       <version>0.1.20161801</version>
       <version>0.1.2016081801</version>
       <version>0.1.2016092001</version>
+      <version>0.1.2016092002</version>
     </versions>
-    <lastUpdated>20160920025655</lastUpdated>
+    <lastUpdated>20160920035107</lastUpdated>
   </versioning>
 </metadata>
